@@ -6,7 +6,7 @@
 body{
     width: 100%;
     min-height: 100vh;
-    background: url(../css/imgs/bg-2.jpg)  no-repeat;
+    background: url(../imgs/bg-2.jpg)  no-repeat;
     background-position: top ;
     font-family: "Reem Kufi Ink", sans-serif;
     direction: rtl; background-size: cover;
@@ -163,7 +163,7 @@ header .postar-yaso img:nth-last-of-type(8){
     body{
         width: 100%;
         min-height: 100vh;
-        background: url(../css/imgs/bg-2.jpg)  no-repeat;
+        background: url(../imgs/bg-2.jpg)  no-repeat;
         background-position: top ;
         font-family: "Reem Kufi Ink", sans-serif;
         direction: rtl; background-size: cover;
